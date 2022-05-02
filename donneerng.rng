@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0">
+  <start>
+    <element name="donnees">
+      <oneOrMore>
+        <element name="donnee">
+          <element name="id"><text/></element>
+          <optional>
+            <element name="creationdate"><date/></element>
+          </optional>
+          <element name="lastmodificationdate"><date/></element>
+          <element name="periode"><text/></element>
+          <element name="source"><text/></element>
+          <element name="valeur"><data type = 'decimal'/></element>
+          <element name="sousindicateur_id"><data type = 'integer'/></element>
+          <element name="zone_id"><data type = 'integer'/></element>
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+</grammar>

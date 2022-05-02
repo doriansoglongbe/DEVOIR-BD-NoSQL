@@ -1,0 +1,11 @@
+<!-- schema.dtd-->
+<!ELEMENT donnees (donnee+) >
+<!ELEMENT donnee (id,creationdate?,lastmodificationdate,periode,source,valeur,sousindicateur_id,zone_id)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT creationdate (#PCDATA)>
+<!ELEMENT lastmodificationdate (#PCDATA)>
+<!ELEMENT periode (#PCDATA)>
+<!ELEMENT source (#PCDATA)>
+<!ELEMENT valeur (#PCDATA)>
+<!ELEMENT sousindicateur_id (#PCDATA)>
+<!ELEMENT zone_id (#PCDATA)>

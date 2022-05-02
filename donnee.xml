@@ -1,0 +1,5822 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<0>
+		<id>3</id>
+		<creationdate>null</creationdate>
+		<lastmodificationdate>2014-07-31 21:58:11</lastmodificationdate>
+		<periode>2001-2002</periode>
+		<source>Emery Kouassi</source>
+		<valeur>12456.002</valeur>
+		<sousindicateur_id>85</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</0>
+	<1>
+		<id>7</id>
+		<creationdate>2014-07-31 23:38:39</creationdate>
+		<lastmodificationdate>2014-07-31 22:38:39</lastmodificationdate>
+		<periode>2001-2002</periode>
+		<source>Esther</source>
+		<valeur>123.36</valeur>
+		<sousindicateur_id>85</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</1>
+	<2>
+		<id>8</id>
+		<creationdate>2014-07-31 23:39:54</creationdate>
+		<lastmodificationdate>2014-07-31 22:39:54</lastmodificationdate>
+		<periode>2011-2014</periode>
+		<source>Ivana</source>
+		<valeur>12.36</valeur>
+		<sousindicateur_id>85</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</2>
+	<3>
+		<id>9</id>
+		<creationdate>2014-07-31 23:49:03</creationdate>
+		<lastmodificationdate>2014-07-31 22:49:03</lastmodificationdate>
+		<periode>2001-2002</periode>
+		<source>Emery</source>
+		<valeur>1253.36</valeur>
+		<sousindicateur_id>54</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</3>
+	<4>
+		<id>13</id>
+		<creationdate>2014-08-01 00:16:10</creationdate>
+		<lastmodificationdate>2014-07-31 23:16:10</lastmodificationdate>
+		<periode>2001-2002</periode>
+		<source>Emery Kouassi</source>
+		<valeur>12456.002</valeur>
+		<sousindicateur_id>64</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</4>
+	<5>
+		<id>14</id>
+		<creationdate>2014-08-01 00:16:10</creationdate>
+		<lastmodificationdate>2014-07-31 23:16:10</lastmodificationdate>
+		<periode>2001-2002</periode>
+		<source>Emery Assogba</source>
+		<valeur>256.326</valeur>
+		<sousindicateur_id>64</sousindicateur_id>
+		<zone_id>2</zone_id>
+		<unite>null</unite>
+	</5>
+	<6>
+		<id>15</id>
+		<creationdate>2014-08-01 00:16:10</creationdate>
+		<lastmodificationdate>2014-07-31 23:16:10</lastmodificationdate>
+		<periode>2001-2002</periode>
+		<source>Esther</source>
+		<valeur>123.36</valeur>
+		<sousindicateur_id>64</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</6>
+	<7>
+		<id>16</id>
+		<creationdate>2014-08-01 00:16:10</creationdate>
+		<lastmodificationdate>2014-07-31 23:16:10</lastmodificationdate>
+		<periode>2011-2014</periode>
+		<source>Ivana</source>
+		<valeur>12.36</valeur>
+		<sousindicateur_id>64</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</7>
+	<8>
+		<id>54</id>
+		<creationdate>2014-08-19 13:09:06</creationdate>
+		<lastmodificationdate>2014-08-19 12:09:06</lastmodificationdate>
+		<periode>2002</periode>
+		<source>Emery</source>
+		<valeur>82497</valeur>
+		<sousindicateur_id>40</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</8>
+	<9>
+		<id>55</id>
+		<creationdate>2014-08-19 13:09:06</creationdate>
+		<lastmodificationdate>2014-08-19 12:09:06</lastmodificationdate>
+		<periode>2002</periode>
+		<source>Kouassi</source>
+		<valeur>8651</valeur>
+		<sousindicateur_id>40</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</9>
+	<10>
+		<id>59</id>
+		<creationdate>2014-08-24 13:51:01</creationdate>
+		<lastmodificationdate>2014-08-24 12:51:01</lastmodificationdate>
+		<periode>2013-2014</periode>
+		<source>Emery</source>
+		<valeur>1234</valeur>
+		<sousindicateur_id>100</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</10>
+	<11>
+		<id>4112</id>
+		<creationdate>2013-12-18 16:06:00</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:00</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>39</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</11>
+	<12>
+		<id>4113</id>
+		<creationdate>2013-12-18 16:06:01</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:01</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>82497</valeur>
+		<sousindicateur_id>40</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</12>
+	<13>
+		<id>4114</id>
+		<creationdate>2013-12-18 16:06:01</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:01</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>8651</valeur>
+		<sousindicateur_id>40</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</13>
+	<14>
+		<id>4115</id>
+		<creationdate>2013-12-18 16:06:01</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:01</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>4815</valeur>
+		<sousindicateur_id>40</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</14>
+	<15>
+		<id>4116</id>
+		<creationdate>2013-12-18 16:06:01</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:01</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>8760</valeur>
+		<sousindicateur_id>40</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</15>
+	<16>
+		<id>4117</id>
+		<creationdate>2013-12-18 16:06:01</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:01</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>6231</valeur>
+		<sousindicateur_id>40</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</16>
+	<17>
+		<id>4118</id>
+		<creationdate>2013-12-18 16:06:01</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:01</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>8597</valeur>
+		<sousindicateur_id>40</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</17>
+	<18>
+		<id>4119</id>
+		<creationdate>2013-12-18 16:06:01</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:01</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>39000</valeur>
+		<sousindicateur_id>41</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</18>
+	<19>
+		<id>4120</id>
+		<creationdate>2013-12-18 16:06:01</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:01</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>7721</valeur>
+		<sousindicateur_id>41</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</19>
+	<20>
+		<id>4121</id>
+		<creationdate>2013-12-18 16:06:01</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:01</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>4648</valeur>
+		<sousindicateur_id>41</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</20>
+	<21>
+		<id>4122</id>
+		<creationdate>2013-12-18 16:06:01</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:01</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>8142</valeur>
+		<sousindicateur_id>41</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</21>
+	<22>
+		<id>4123</id>
+		<creationdate>2013-12-18 16:06:01</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:01</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>5571</valeur>
+		<sousindicateur_id>41</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</22>
+	<23>
+		<id>4124</id>
+		<creationdate>2013-12-18 16:06:01</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:01</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>8308</valeur>
+		<sousindicateur_id>41</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</23>
+	<24>
+		<id>4125</id>
+		<creationdate>2013-12-18 16:06:01</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:01</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>81497</valeur>
+		<sousindicateur_id>42</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</24>
+	<25>
+		<id>4127</id>
+		<creationdate>2013-12-18 16:06:01</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:01</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>9463</valeur>
+		<sousindicateur_id>42</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</25>
+	<26>
+		<id>4128</id>
+		<creationdate>2013-12-18 16:06:01</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:01</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>16902</valeur>
+		<sousindicateur_id>42</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</26>
+	<27>
+		<id>4129</id>
+		<creationdate>2013-12-18 16:06:02</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:02</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>11802</valeur>
+		<sousindicateur_id>42</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</27>
+	<28>
+		<id>4130</id>
+		<creationdate>2013-12-18 16:06:02</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:02</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>16905</valeur>
+		<sousindicateur_id>42</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</28>
+	<29>
+		<id>4132</id>
+		<creationdate>2013-12-18 16:06:02</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:02</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>131</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</29>
+	<30>
+		<id>4133</id>
+		<creationdate>2013-12-18 16:06:02</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:02</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>131</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</30>
+	<31>
+		<id>4134</id>
+		<creationdate>2013-12-18 16:06:02</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:02</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>131</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</31>
+	<32>
+		<id>4135</id>
+		<creationdate>2013-12-18 16:06:02</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:02</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>44</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</32>
+	<33>
+		<id>4136</id>
+		<creationdate>2013-12-18 16:06:02</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:02</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>44</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</33>
+	<34>
+		<id>4137</id>
+		<creationdate>2013-12-18 16:06:02</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:02</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>44</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</34>
+	<35>
+		<id>4138</id>
+		<creationdate>2013-12-18 16:06:02</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:02</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>44</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</35>
+	<36>
+		<id>4139</id>
+		<creationdate>2013-12-18 16:06:02</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:02</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>45</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</36>
+	<37>
+		<id>4140</id>
+		<creationdate>2013-12-18 16:06:03</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:03</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>45</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</37>
+	<38>
+		<id>4141</id>
+		<creationdate>2013-12-18 16:06:03</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:03</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>45</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</38>
+	<39>
+		<id>4142</id>
+		<creationdate>2013-12-18 16:06:03</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:03</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>45</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</39>
+	<40>
+		<id>4143</id>
+		<creationdate>2013-12-18 16:06:03</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:03</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>45</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</40>
+	<41>
+		<id>4144</id>
+		<creationdate>2013-12-18 16:06:03</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:03</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>46</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</41>
+	<42>
+		<id>4145</id>
+		<creationdate>2013-12-18 16:06:03</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:03</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>4</valeur>
+		<sousindicateur_id>46</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</42>
+	<43>
+		<id>4146</id>
+		<creationdate>2013-12-18 16:06:03</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:03</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>46</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</43>
+	<44>
+		<id>4147</id>
+		<creationdate>2013-12-18 16:06:03</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:03</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>46</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</44>
+	<45>
+		<id>4148</id>
+		<creationdate>2013-12-18 16:06:03</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:03</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>17</valeur>
+		<sousindicateur_id>47</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</45>
+	<46>
+		<id>4149</id>
+		<creationdate>2013-12-18 16:06:03</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:03</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>50</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</46>
+	<47>
+		<id>4150</id>
+		<creationdate>2013-12-18 16:06:03</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:03</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>50</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</47>
+	<48>
+		<id>4151</id>
+		<creationdate>2013-12-18 16:06:04</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:04</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>50</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</48>
+	<49>
+		<id>4152</id>
+		<creationdate>2013-12-18 16:06:04</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:04</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>50</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</49>
+	<50>
+		<id>4153</id>
+		<creationdate>2013-12-18 16:06:04</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:04</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>50</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</50>
+	<51>
+		<id>4154</id>
+		<creationdate>2013-12-18 16:06:04</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:04</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>52</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</51>
+	<52>
+		<id>4155</id>
+		<creationdate>2013-12-18 16:06:04</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:04</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>52</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</52>
+	<53>
+		<id>4156</id>
+		<creationdate>2013-12-18 16:06:04</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:04</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>52</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</53>
+	<54>
+		<id>4157</id>
+		<creationdate>2013-12-18 16:06:04</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:04</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>52</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</54>
+	<55>
+		<id>4158</id>
+		<creationdate>2013-12-18 16:06:04</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:04</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>52</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</55>
+	<56>
+		<id>4159</id>
+		<creationdate>2013-12-18 16:06:04</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:04</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>52</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</56>
+	<57>
+		<id>4160</id>
+		<creationdate>2013-12-18 16:06:04</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:04</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>54</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</57>
+	<58>
+		<id>4161</id>
+		<creationdate>2013-12-18 16:06:04</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:04</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>39</valeur>
+		<sousindicateur_id>59</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</58>
+	<59>
+		<id>4162</id>
+		<creationdate>2013-12-18 16:06:05</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:05</lastmodificationdate>
+		<periode>2011</periode>
+		<source>centre de santé de la commune d'Adja-Ouèrè</source>
+		<valeur>7</valeur>
+		<sousindicateur_id>62</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</59>
+	<60>
+		<id>4181</id>
+		<creationdate>2013-12-18 16:06:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:06</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>66</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</60>
+	<61>
+		<id>4182</id>
+		<creationdate>2013-12-18 16:06:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:06</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>66</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</61>
+	<62>
+		<id>4183</id>
+		<creationdate>2013-12-18 16:06:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:06</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>66</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</62>
+	<63>
+		<id>4184</id>
+		<creationdate>2013-12-18 16:06:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:06</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>66</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</63>
+	<64>
+		<id>4185</id>
+		<creationdate>2013-12-18 16:06:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:06</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>66</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</64>
+	<65>
+		<id>4186</id>
+		<creationdate>2013-12-18 16:06:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:06</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>66</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</65>
+	<66>
+		<id>4187</id>
+		<creationdate>2013-12-18 16:06:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:06</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>404</valeur>
+		<sousindicateur_id>67</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</66>
+	<67>
+		<id>4188</id>
+		<creationdate>2013-12-18 16:06:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:06</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>67</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</67>
+	<68>
+		<id>4189</id>
+		<creationdate>2013-12-18 16:06:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:06</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>67</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</68>
+	<69>
+		<id>4193</id>
+		<creationdate>2013-12-18 16:06:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:06</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>68</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</69>
+	<70>
+		<id>4194</id>
+		<creationdate>2013-12-18 16:06:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:06</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>68</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</70>
+	<71>
+		<id>4195</id>
+		<creationdate>2013-12-18 16:06:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:06</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>68</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</71>
+	<72>
+		<id>4198</id>
+		<creationdate>2013-12-18 16:06:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:07</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>68</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</72>
+	<73>
+		<id>4199</id>
+		<creationdate>2013-12-18 16:06:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:07</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>69</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</73>
+	<74>
+		<id>4202</id>
+		<creationdate>2013-12-18 16:06:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:07</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>69</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</74>
+	<75>
+		<id>4205</id>
+		<creationdate>2013-12-18 16:06:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:07</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>614</valeur>
+		<sousindicateur_id>70</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</75>
+	<76>
+		<id>4206</id>
+		<creationdate>2013-12-18 16:06:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:07</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>70</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</76>
+	<77>
+		<id>4207</id>
+		<creationdate>2013-12-18 16:06:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:07</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>8</valeur>
+		<sousindicateur_id>70</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</77>
+	<78>
+		<id>4209</id>
+		<creationdate>2013-12-18 16:06:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:07</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>11</valeur>
+		<sousindicateur_id>70</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</78>
+	<79>
+		<id>4210</id>
+		<creationdate>2013-12-18 16:06:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:07</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>70</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</79>
+	<80>
+		<id>4211</id>
+		<creationdate>2013-12-18 16:06:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:07</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>177</valeur>
+		<sousindicateur_id>71</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</80>
+	<81>
+		<id>4212</id>
+		<creationdate>2013-12-18 16:06:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:07</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>7</valeur>
+		<sousindicateur_id>71</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</81>
+	<82>
+		<id>4213</id>
+		<creationdate>2013-12-18 16:06:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:07</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>88</valeur>
+		<sousindicateur_id>71</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</82>
+	<83>
+		<id>4214</id>
+		<creationdate>2013-12-18 16:06:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:07</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>71</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</83>
+	<84>
+		<id>4215</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>9</valeur>
+		<sousindicateur_id>71</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</84>
+	<85>
+		<id>4216</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>18</valeur>
+		<sousindicateur_id>71</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</85>
+	<86>
+		<id>4217</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1078</valeur>
+		<sousindicateur_id>72</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</86>
+	<87>
+		<id>4218</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>539</valeur>
+		<sousindicateur_id>72</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</87>
+	<88>
+		<id>4219</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>22</valeur>
+		<sousindicateur_id>72</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</88>
+	<89>
+		<id>4220</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>32</valeur>
+		<sousindicateur_id>72</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</89>
+	<90>
+		<id>4221</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>162</valeur>
+		<sousindicateur_id>72</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</90>
+	<91>
+		<id>4222</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>54</valeur>
+		<sousindicateur_id>72</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</91>
+	<92>
+		<id>4223</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>2088</valeur>
+		<sousindicateur_id>73</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</92>
+	<93>
+		<id>4224</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>150</valeur>
+		<sousindicateur_id>73</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</93>
+	<94>
+		<id>4225</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>450</valeur>
+		<sousindicateur_id>73</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</94>
+	<95>
+		<id>4226</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>225</valeur>
+		<sousindicateur_id>73</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</95>
+	<96>
+		<id>4227</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>600</valeur>
+		<sousindicateur_id>73</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</96>
+	<97>
+		<id>4228</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>75</valeur>
+		<sousindicateur_id>73</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</97>
+	<98>
+		<id>4229</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de productionn d'Adja-Ouèrè</source>
+		<valeur>3448</valeur>
+		<sousindicateur_id>74</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</98>
+	<99>
+		<id>4230</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de productionn d'Adja-Ouèrè</source>
+		<valeur>517</valeur>
+		<sousindicateur_id>74</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</99>
+	<100>
+		<id>4231</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de productionn d'Adja-Ouèrè</source>
+		<valeur>431</valeur>
+		<sousindicateur_id>74</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</100>
+	<101>
+		<id>4232</id>
+		<creationdate>2013-12-18 16:06:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:08</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de productionn d'Adja-Ouèrè</source>
+		<valeur>862</valeur>
+		<sousindicateur_id>74</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</101>
+	<102>
+		<id>4233</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de productionn d'Adja-Ouèrè</source>
+		<valeur>388</valeur>
+		<sousindicateur_id>74</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</102>
+	<103>
+		<id>4234</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de productionn d'Adja-Ouèrè</source>
+		<valeur>862</valeur>
+		<sousindicateur_id>74</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</103>
+	<104>
+		<id>4235</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de productionn d'Adja-Ouèrè</source>
+		<valeur>11206</valeur>
+		<sousindicateur_id>75</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</104>
+	<105>
+		<id>4236</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de productionn d'Adja-Ouèrè</source>
+		<valeur>1681</valeur>
+		<sousindicateur_id>75</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</105>
+	<106>
+		<id>4237</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de productionn d'Adja-Ouèrè</source>
+		<valeur>1401</valeur>
+		<sousindicateur_id>75</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</106>
+	<107>
+		<id>4239</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de productionn d'Adja-Ouèrè</source>
+		<valeur>1261</valeur>
+		<sousindicateur_id>75</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</107>
+	<108>
+		<id>4240</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de productionn d'Adja-Ouèrè</source>
+		<valeur>2801</valeur>
+		<sousindicateur_id>75</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</108>
+	<109>
+		<id>4241</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>61248</valeur>
+		<sousindicateur_id>76</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</109>
+	<110>
+		<id>4242</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>30625</valeur>
+		<sousindicateur_id>76</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</110>
+	<111>
+		<id>4243</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1225</valeur>
+		<sousindicateur_id>76</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</111>
+	<112>
+		<id>4244</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1837</valeur>
+		<sousindicateur_id>76</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</112>
+	<113>
+		<id>4245</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>9187</valeur>
+		<sousindicateur_id>76</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</113>
+	<114>
+		<id>4246</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>3062</valeur>
+		<sousindicateur_id>76</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</114>
+	<115>
+		<id>4247</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>368</valeur>
+		<sousindicateur_id>77</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</115>
+	<116>
+		<id>4248</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>15</valeur>
+		<sousindicateur_id>77</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</116>
+	<117>
+		<id>4249</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>184</valeur>
+		<sousindicateur_id>77</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</117>
+	<118>
+		<id>4250</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>4</valeur>
+		<sousindicateur_id>77</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</118>
+	<119>
+		<id>4251</id>
+		<creationdate>2013-12-18 16:06:09</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:09</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>18</valeur>
+		<sousindicateur_id>77</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</119>
+	<120>
+		<id>4252</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>37</valeur>
+		<sousindicateur_id>77</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</120>
+	<121>
+		<id>4253</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>78</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</121>
+	<122>
+		<id>4254</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>78</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</122>
+	<123>
+		<id>4255</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>78</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</123>
+	<124>
+		<id>4256</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>78</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</124>
+	<125>
+		<id>4257</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>78</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</125>
+	<126>
+		<id>4258</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>78</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</126>
+	<127>
+		<id>4259</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>232</valeur>
+		<sousindicateur_id>79</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</127>
+	<128>
+		<id>4260</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>115</valeur>
+		<sousindicateur_id>79</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</128>
+	<129>
+		<id>4261</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>5</valeur>
+		<sousindicateur_id>79</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</129>
+	<130>
+		<id>4262</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>7</valeur>
+		<sousindicateur_id>79</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</130>
+	<131>
+		<id>4263</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>35</valeur>
+		<sousindicateur_id>79</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</131>
+	<132>
+		<id>4264</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>12</valeur>
+		<sousindicateur_id>79</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</132>
+	<133>
+		<id>4265</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>80</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</133>
+	<134>
+		<id>4266</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>80</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</134>
+	<135>
+		<id>4267</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>80</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</135>
+	<136>
+		<id>4268</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>80</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</136>
+	<137>
+		<id>4269</id>
+		<creationdate>2013-12-18 16:06:10</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:10</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>80</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</137>
+	<138>
+		<id>4270</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>80</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</138>
+	<139>
+		<id>4271</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>2726</valeur>
+		<sousindicateur_id>81</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</139>
+	<140>
+		<id>4272</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>214</valeur>
+		<sousindicateur_id>81</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</140>
+	<141>
+		<id>4273</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>642</valeur>
+		<sousindicateur_id>81</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</141>
+	<142>
+		<id>4274</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>321</valeur>
+		<sousindicateur_id>81</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</142>
+	<143>
+		<id>4275</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>856</valeur>
+		<sousindicateur_id>81</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</143>
+	<144>
+		<id>4276</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>107</valeur>
+		<sousindicateur_id>81</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</144>
+	<145>
+		<id>4277</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>83</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</145>
+	<146>
+		<id>4278</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>83</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</146>
+	<147>
+		<id>4279</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>83</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</147>
+	<148>
+		<id>4280</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>83</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</148>
+	<149>
+		<id>4281</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>83</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</149>
+	<150>
+		<id>4282</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>83</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</150>
+	<151>
+		<id>4283</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>636</valeur>
+		<sousindicateur_id>84</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</151>
+	<152>
+		<id>4284</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1277</valeur>
+		<sousindicateur_id>85</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</152>
+	<153>
+		<id>4285</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>85</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</153>
+	<154>
+		<id>4286</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>85</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</154>
+	<155>
+		<id>4287</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>85</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</155>
+	<156>
+		<id>4288</id>
+		<creationdate>2013-12-18 16:06:11</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:11</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>85</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</156>
+	<157>
+		<id>4289</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>958</valeur>
+		<sousindicateur_id>85</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</157>
+	<158>
+		<id>4290</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>86</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</158>
+	<159>
+		<id>4291</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>86</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</159>
+	<160>
+		<id>4292</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>86</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</160>
+	<161>
+		<id>4293</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>86</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</161>
+	<162>
+		<id>4294</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>86</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</162>
+	<163>
+		<id>4295</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>86</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</163>
+	<164>
+		<id>4296</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>87</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</164>
+	<165>
+		<id>4297</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>87</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</165>
+	<166>
+		<id>4298</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>87</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</166>
+	<167>
+		<id>4299</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>87</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</167>
+	<168>
+		<id>4300</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>87</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</168>
+	<169>
+		<id>4301</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>87</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</169>
+	<170>
+		<id>4302</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>88</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</170>
+	<171>
+		<id>4303</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>88</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</171>
+	<172>
+		<id>4304</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>88</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</172>
+	<173>
+		<id>4305</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>88</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</173>
+	<174>
+		<id>4306</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>88</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</174>
+	<175>
+		<id>4307</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>88</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</175>
+	<176>
+		<id>4308</id>
+		<creationdate>2013-12-18 16:06:12</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:12</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>89</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</176>
+	<177>
+		<id>4309</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>89</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</177>
+	<178>
+		<id>4310</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>89</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</178>
+	<179>
+		<id>4311</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>89</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</179>
+	<180>
+		<id>4312</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>89</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</180>
+	<181>
+		<id>4313</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>89</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</181>
+	<182>
+		<id>4314</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>22</valeur>
+		<sousindicateur_id>90</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</182>
+	<183>
+		<id>4315</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>11</valeur>
+		<sousindicateur_id>90</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</183>
+	<184>
+		<id>4316</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>90</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</184>
+	<185>
+		<id>4317</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>90</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</185>
+	<186>
+		<id>4318</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>90</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</186>
+	<187>
+		<id>4319</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>90</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</187>
+	<188>
+		<id>4320</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>12292</valeur>
+		<sousindicateur_id>91</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</188>
+	<189>
+		<id>4321</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1171</valeur>
+		<sousindicateur_id>91</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</189>
+	<190>
+		<id>4322</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>3512</valeur>
+		<sousindicateur_id>91</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</190>
+	<191>
+		<id>4323</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1756</valeur>
+		<sousindicateur_id>91</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</191>
+	<192>
+		<id>4324</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>4683</valeur>
+		<sousindicateur_id>91</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</192>
+	<193>
+		<id>4325</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>585</valeur>
+		<sousindicateur_id>91</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</193>
+	<194>
+		<id>4326</id>
+		<creationdate>2013-12-18 16:06:13</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:13</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1277</valeur>
+		<sousindicateur_id>92</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</194>
+	<195>
+		<id>4327</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>92</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</195>
+	<196>
+		<id>4328</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>92</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</196>
+	<197>
+		<id>4329</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>92</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</197>
+	<198>
+		<id>4330</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>92</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</198>
+	<199>
+		<id>4331</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>958</valeur>
+		<sousindicateur_id>92</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</199>
+	<200>
+		<id>4332</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>17723</valeur>
+		<sousindicateur_id>93</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</200>
+	<201>
+		<id>4333</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1538</valeur>
+		<sousindicateur_id>93</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</201>
+	<202>
+		<id>4334</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>4613</valeur>
+		<sousindicateur_id>93</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</202>
+	<203>
+		<id>4335</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>2306</valeur>
+		<sousindicateur_id>93</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</203>
+	<204>
+		<id>4336</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>6151</valeur>
+		<sousindicateur_id>93</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</204>
+	<205>
+		<id>4337</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>769</valeur>
+		<sousindicateur_id>93</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</205>
+	<206>
+		<id>4338</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>450</valeur>
+		<sousindicateur_id>94</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</206>
+	<207>
+		<id>4339</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>94</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</207>
+	<208>
+		<id>4340</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>94</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</208>
+	<209>
+		<id>4341</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>404</valeur>
+		<sousindicateur_id>94</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</209>
+	<210>
+		<id>4342</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>46</valeur>
+		<sousindicateur_id>94</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</210>
+	<211>
+		<id>4343</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>94</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</211>
+	<212>
+		<id>4344</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>544</valeur>
+		<sousindicateur_id>95</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</212>
+	<213>
+		<id>4345</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>22</valeur>
+		<sousindicateur_id>95</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</213>
+	<214>
+		<id>4346</id>
+		<creationdate>2013-12-18 16:06:14</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:14</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>272</valeur>
+		<sousindicateur_id>95</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</214>
+	<215>
+		<id>4347</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>6</valeur>
+		<sousindicateur_id>95</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</215>
+	<216>
+		<id>4348</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>27</valeur>
+		<sousindicateur_id>95</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</216>
+	<217>
+		<id>4349</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>54</valeur>
+		<sousindicateur_id>95</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</217>
+	<218>
+		<id>4350</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>3663</valeur>
+		<sousindicateur_id>96</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</218>
+	<219>
+		<id>4351</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011-2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>14654</valeur>
+		<sousindicateur_id>96</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</219>
+	<220>
+		<id>4352</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011-2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1832</valeur>
+		<sousindicateur_id>96</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</220>
+	<221>
+		<id>4353</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011-2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>3663</valeur>
+		<sousindicateur_id>96</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</221>
+	<222>
+		<id>4354</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011-2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1649</valeur>
+		<sousindicateur_id>96</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</222>
+	<223>
+		<id>4355</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>62580</valeur>
+		<sousindicateur_id>97</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</223>
+	<224>
+		<id>4356</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>31290</valeur>
+		<sousindicateur_id>97</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</224>
+	<225>
+		<id>4357</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1252</valeur>
+		<sousindicateur_id>97</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</225>
+	<226>
+		<id>4358</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1877</valeur>
+		<sousindicateur_id>97</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</226>
+	<227>
+		<id>4359</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>9387</valeur>
+		<sousindicateur_id>97</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</227>
+	<228>
+		<id>4360</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>3129</valeur>
+		<sousindicateur_id>97</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</228>
+	<229>
+		<id>4361</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>98</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</229>
+	<230>
+		<id>4362</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>98</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</230>
+	<231>
+		<id>4363</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>98</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</231>
+	<232>
+		<id>4364</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>98</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</232>
+	<233>
+		<id>4365</id>
+		<creationdate>2013-12-18 16:06:15</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:15</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>98</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</233>
+	<234>
+		<id>4366</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>98</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</234>
+	<235>
+		<id>4367</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>433</valeur>
+		<sousindicateur_id>99</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</235>
+	<236>
+		<id>4368</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>303</valeur>
+		<sousindicateur_id>99</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</236>
+	<237>
+		<id>4369</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>99</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</237>
+	<238>
+		<id>4370</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>99</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</238>
+	<239>
+		<id>4371</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>13</valeur>
+		<sousindicateur_id>99</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</239>
+	<240>
+		<id>4372</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>87</valeur>
+		<sousindicateur_id>99</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</240>
+	<241>
+		<id>4373</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>3280</valeur>
+		<sousindicateur_id>84</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</241>
+	<242>
+		<id>4374</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>477</valeur>
+		<sousindicateur_id>84</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</242>
+	<243>
+		<id>4375</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>159</valeur>
+		<sousindicateur_id>84</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</243>
+	<244>
+		<id>4376</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>318</valeur>
+		<sousindicateur_id>84</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</244>
+	<245>
+		<id>4377</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>731</valeur>
+		<sousindicateur_id>84</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</245>
+	<246>
+		<id>4378</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>17028</valeur>
+		<sousindicateur_id>100</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</246>
+	<247>
+		<id>4379</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>2580</valeur>
+		<sousindicateur_id>100</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</247>
+	<248>
+		<id>4380</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1720</valeur>
+		<sousindicateur_id>100</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</248>
+	<249>
+		<id>4381</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>2924</valeur>
+		<sousindicateur_id>100</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</249>
+	<250>
+		<id>4382</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>3096</valeur>
+		<sousindicateur_id>100</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</250>
+	<251>
+		<id>4383</id>
+		<creationdate>2013-12-18 16:06:16</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:16</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>2924</valeur>
+		<sousindicateur_id>100</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</251>
+	<252>
+		<id>4389</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Mairie Adja-Ouèrè</source>
+		<valeur>4</valeur>
+		<sousindicateur_id>109</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</252>
+	<253>
+		<id>4390</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>135</valeur>
+		<sousindicateur_id>110</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</253>
+	<254>
+		<id>4391</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>27</valeur>
+		<sousindicateur_id>110</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</254>
+	<255>
+		<id>4392</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>18</valeur>
+		<sousindicateur_id>110</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</255>
+	<256>
+		<id>4393</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>31</valeur>
+		<sousindicateur_id>110</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</256>
+	<257>
+		<id>4394</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>48</valeur>
+		<sousindicateur_id>110</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</257>
+	<258>
+		<id>4395</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>7</valeur>
+		<sousindicateur_id>110</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</258>
+	<259>
+		<id>4396</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>746</valeur>
+		<sousindicateur_id>111</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</259>
+	<260>
+		<id>4397</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>105</valeur>
+		<sousindicateur_id>111</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</260>
+	<261>
+		<id>4398</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>42</valeur>
+		<sousindicateur_id>111</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</261>
+	<262>
+		<id>4399</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>229</valeur>
+		<sousindicateur_id>111</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</262>
+	<263>
+		<id>4400</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>190</valeur>
+		<sousindicateur_id>111</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</263>
+	<264>
+		<id>4401</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>104</valeur>
+		<sousindicateur_id>111</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</264>
+	<265>
+		<id>4402</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>881</valeur>
+		<sousindicateur_id>112</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</265>
+	<266>
+		<id>4403</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>132</valeur>
+		<sousindicateur_id>112</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</266>
+	<267>
+		<id>4404</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>60</valeur>
+		<sousindicateur_id>112</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</267>
+	<268>
+		<id>4405</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>260</valeur>
+		<sousindicateur_id>112</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</268>
+	<269>
+		<id>4406</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>238</valeur>
+		<sousindicateur_id>112</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</269>
+	<270>
+		<id>4407</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>111</valeur>
+		<sousindicateur_id>112</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</270>
+	<271>
+		<id>4408</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>114</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</271>
+	<272>
+		<id>4409</id>
+		<creationdate>2013-12-18 16:06:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>114</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</272>
+	<273>
+		<id>4410</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>114</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</273>
+	<274>
+		<id>4411</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>114</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</274>
+	<275>
+		<id>4412</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>114</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</275>
+	<276>
+		<id>4413</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>114</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</276>
+	<277>
+		<id>4414</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>38</valeur>
+		<sousindicateur_id>115</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</277>
+	<278>
+		<id>4415</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>6</valeur>
+		<sousindicateur_id>115</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</278>
+	<279>
+		<id>4416</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>115</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</279>
+	<280>
+		<id>4417</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>9</valeur>
+		<sousindicateur_id>115</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</280>
+	<281>
+		<id>4418</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>11</valeur>
+		<sousindicateur_id>115</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</281>
+	<282>
+		<id>4419</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>4</valeur>
+		<sousindicateur_id>115</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</282>
+	<283>
+		<id>4420</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>38</valeur>
+		<sousindicateur_id>116</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</283>
+	<284>
+		<id>4421</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>6</valeur>
+		<sousindicateur_id>116</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</284>
+	<285>
+		<id>4422</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>116</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</285>
+	<286>
+		<id>4423</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>9</valeur>
+		<sousindicateur_id>116</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</286>
+	<287>
+		<id>4424</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>11</valeur>
+		<sousindicateur_id>116</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</287>
+	<288>
+		<id>4425</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>4</valeur>
+		<sousindicateur_id>116</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</288>
+	<289>
+		<id>4426</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>70</valeur>
+		<sousindicateur_id>119</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</289>
+	<290>
+		<id>4427</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>1463</valeur>
+		<sousindicateur_id>121</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</290>
+	<291>
+		<id>4428</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>492</valeur>
+		<sousindicateur_id>121</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</291>
+	<292>
+		<id>4429</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>128</valeur>
+		<sousindicateur_id>121</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</292>
+	<293>
+		<id>4430</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>243</valeur>
+		<sousindicateur_id>121</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</293>
+	<294>
+		<id>4431</id>
+		<creationdate>2013-12-18 16:06:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:18</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>100</valeur>
+		<sousindicateur_id>121</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</294>
+	<295>
+		<id>4432</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>346</valeur>
+		<sousindicateur_id>121</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</295>
+	<296>
+		<id>4433</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>35</valeur>
+		<sousindicateur_id>122</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</296>
+	<297>
+		<id>4434</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>122</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</297>
+	<298>
+		<id>4435</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>122</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</298>
+	<299>
+		<id>4436</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>122</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</299>
+	<300>
+		<id>4437</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>122</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</300>
+	<301>
+		<id>4438</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>122</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</301>
+	<302>
+		<id>4439</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>35</valeur>
+		<sousindicateur_id>123</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</302>
+	<303>
+		<id>4440</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>10</valeur>
+		<sousindicateur_id>123</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</303>
+	<304>
+		<id>4441</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>123</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</304>
+	<305>
+		<id>4442</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>7</valeur>
+		<sousindicateur_id>123</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</305>
+	<306>
+		<id>4443</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>123</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</306>
+	<307>
+		<id>4444</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>9</valeur>
+		<sousindicateur_id>123</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</307>
+	<308>
+		<id>4445</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>40</valeur>
+		<sousindicateur_id>120</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</308>
+	<309>
+		<id>4446</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>11</valeur>
+		<sousindicateur_id>120</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</309>
+	<310>
+		<id>4447</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>120</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</310>
+	<311>
+		<id>4448</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>8</valeur>
+		<sousindicateur_id>120</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</311>
+	<312>
+		<id>4449</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>120</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</312>
+	<313>
+		<id>4450</id>
+		<creationdate>2013-12-18 16:06:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:06:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>11</valeur>
+		<sousindicateur_id>120</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</313>
+	<314>
+		<id>4451</id>
+		<creationdate>2013-12-18 16:17:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:17</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>5443</valeur>
+		<sousindicateur_id>40</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</314>
+	<315>
+		<id>4452</id>
+		<creationdate>2013-12-18 16:17:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:17</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>4610</valeur>
+		<sousindicateur_id>41</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</315>
+	<316>
+		<id>4453</id>
+		<creationdate>2013-12-18 16:17:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:17</lastmodificationdate>
+		<periode>2002</periode>
+		<source>INSAE</source>
+		<valeur>10053</valeur>
+		<sousindicateur_id>42</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</316>
+	<317>
+		<id>4454</id>
+		<creationdate>2013-12-18 16:17:17</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:17</lastmodificationdate>
+		<periode>2012</periode>
+		<source>CS Adja-Ouèrè</source>
+		<valeur>94.3</valeur>
+		<sousindicateur_id>43</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</317>
+	<318>
+		<id>4455</id>
+		<creationdate>2013-12-18 16:17:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:18</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>131</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</318>
+	<319>
+		<id>4456</id>
+		<creationdate>2013-12-18 16:17:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:18</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>44</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</319>
+	<320>
+		<id>4457</id>
+		<creationdate>2013-12-18 16:17:18</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:18</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>45</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</320>
+	<321>
+		<id>4458</id>
+		<creationdate>2013-12-18 16:17:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>46</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</321>
+	<322>
+		<id>4459</id>
+		<creationdate>2013-12-18 16:17:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>8</valeur>
+		<sousindicateur_id>48</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</322>
+	<323>
+		<id>4460</id>
+		<creationdate>2013-12-18 16:17:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>48</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</323>
+	<324>
+		<id>4461</id>
+		<creationdate>2013-12-18 16:17:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>48</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</324>
+	<325>
+		<id>4462</id>
+		<creationdate>2013-12-18 16:17:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>6</valeur>
+		<sousindicateur_id>48</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</325>
+	<326>
+		<id>4463</id>
+		<creationdate>2013-12-18 16:17:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>6</valeur>
+		<sousindicateur_id>48</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</326>
+	<327>
+		<id>4464</id>
+		<creationdate>2013-12-18 16:17:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:19</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>48</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</327>
+	<328>
+		<id>4465</id>
+		<creationdate>2013-12-18 16:17:20</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:20</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>50</valeur>
+		<sousindicateur_id>49</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</328>
+	<329>
+		<id>4466</id>
+		<creationdate>2013-12-18 16:17:20</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:20</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>8</valeur>
+		<sousindicateur_id>49</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</329>
+	<330>
+		<id>4467</id>
+		<creationdate>2013-12-18 16:17:20</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:20</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>6</valeur>
+		<sousindicateur_id>49</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</330>
+	<331>
+		<id>4468</id>
+		<creationdate>2013-12-18 16:17:20</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:20</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>9</valeur>
+		<sousindicateur_id>49</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</331>
+	<332>
+		<id>4469</id>
+		<creationdate>2013-12-18 16:17:20</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:20</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>7</valeur>
+		<sousindicateur_id>49</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</332>
+	<333>
+		<id>4470</id>
+		<creationdate>2013-12-18 16:17:20</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:20</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>10</valeur>
+		<sousindicateur_id>49</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</333>
+	<334>
+		<id>4471</id>
+		<creationdate>2013-12-18 16:17:20</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:20</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>10</valeur>
+		<sousindicateur_id>49</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</334>
+	<335>
+		<id>4472</id>
+		<creationdate>2013-12-18 16:17:20</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:20</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>50</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</335>
+	<336>
+		<id>4473</id>
+		<creationdate>2013-12-18 16:17:20</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:20</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>51</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</336>
+	<337>
+		<id>4474</id>
+		<creationdate>2013-12-18 16:17:21</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:21</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>51</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</337>
+	<338>
+		<id>4475</id>
+		<creationdate>2013-12-18 16:17:21</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:21</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>51</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</338>
+	<339>
+		<id>4476</id>
+		<creationdate>2013-12-18 16:17:21</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:21</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>51</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</339>
+	<340>
+		<id>4477</id>
+		<creationdate>2013-12-18 16:17:21</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:21</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>51</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</340>
+	<341>
+		<id>4478</id>
+		<creationdate>2013-12-18 16:17:21</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:21</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>51</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</341>
+	<342>
+		<id>4479</id>
+		<creationdate>2013-12-18 16:17:21</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:21</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>51</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</342>
+	<343>
+		<id>4480</id>
+		<creationdate>2013-12-18 16:17:21</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:21</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>52</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</343>
+	<344>
+		<id>4481</id>
+		<creationdate>2013-12-18 16:17:21</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:21</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>6</valeur>
+		<sousindicateur_id>53</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</344>
+	<345>
+		<id>4482</id>
+		<creationdate>2013-12-18 16:17:21</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:21</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>53</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</345>
+	<346>
+		<id>4483</id>
+		<creationdate>2013-12-18 16:17:22</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:22</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>53</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</346>
+	<347>
+		<id>4484</id>
+		<creationdate>2013-12-18 16:17:22</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:22</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>53</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</347>
+	<348>
+		<id>4485</id>
+		<creationdate>2013-12-18 16:17:22</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:22</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>53</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</348>
+	<349>
+		<id>4486</id>
+		<creationdate>2013-12-18 16:17:22</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:22</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>53</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</349>
+	<350>
+		<id>4487</id>
+		<creationdate>2013-12-18 16:17:22</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:22</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>53</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</350>
+	<351>
+		<id>4488</id>
+		<creationdate>2013-12-18 16:17:22</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:22</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>63</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</351>
+	<352>
+		<id>4489</id>
+		<creationdate>2013-12-18 16:17:23</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:23</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>64</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</352>
+	<353>
+		<id>4490</id>
+		<creationdate>2013-12-18 16:17:23</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:23</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>65</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</353>
+	<354>
+		<id>4491</id>
+		<creationdate>2013-12-18 16:17:24</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:24</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>66</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</354>
+	<355>
+		<id>4492</id>
+		<creationdate>2013-12-18 16:17:24</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:24</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>67</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</355>
+	<356>
+		<id>4493</id>
+		<creationdate>2013-12-18 16:17:25</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:25</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>68</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</356>
+	<357>
+		<id>4494</id>
+		<creationdate>2013-12-18 16:17:25</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:25</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>69</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</357>
+	<358>
+		<id>4495</id>
+		<creationdate>2013-12-18 16:17:26</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:26</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>587</valeur>
+		<sousindicateur_id>70</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</358>
+	<359>
+		<id>4496</id>
+		<creationdate>2013-12-18 16:17:26</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:26</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>53</valeur>
+		<sousindicateur_id>71</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</359>
+	<360>
+		<id>4497</id>
+		<creationdate>2013-12-18 16:17:27</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:27</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>269</valeur>
+		<sousindicateur_id>72</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</360>
+	<361>
+		<id>4498</id>
+		<creationdate>2013-12-18 16:17:27</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:27</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>588</valeur>
+		<sousindicateur_id>73</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</361>
+	<362>
+		<id>4499</id>
+		<creationdate>2013-12-18 16:17:28</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:28</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de productionn d'Adja-Ouèrè</source>
+		<valeur>388</valeur>
+		<sousindicateur_id>74</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</362>
+	<363>
+		<id>4500</id>
+		<creationdate>2013-12-18 16:17:28</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:28</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de productionn d'Adja-Ouèrè</source>
+		<valeur>1261</valeur>
+		<sousindicateur_id>75</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</363>
+	<364>
+		<id>4501</id>
+		<creationdate>2013-12-18 16:17:29</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:29</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>15312</valeur>
+		<sousindicateur_id>76</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</364>
+	<365>
+		<id>4502</id>
+		<creationdate>2013-12-18 16:17:29</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:29</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>110</valeur>
+		<sousindicateur_id>77</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</365>
+	<366>
+		<id>4503</id>
+		<creationdate>2013-12-18 16:17:30</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:30</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>78</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</366>
+	<367>
+		<id>4504</id>
+		<creationdate>2013-12-18 16:17:30</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:30</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>58</valeur>
+		<sousindicateur_id>79</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</367>
+	<368>
+		<id>4505</id>
+		<creationdate>2013-12-18 16:17:31</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:31</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>80</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</368>
+	<369>
+		<id>4506</id>
+		<creationdate>2013-12-18 16:17:31</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:31</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>586</valeur>
+		<sousindicateur_id>81</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</369>
+	<370>
+		<id>4507</id>
+		<creationdate>2013-12-18 16:17:32</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:32</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>83</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</370>
+	<371>
+		<id>4508</id>
+		<creationdate>2013-12-18 16:17:32</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:32</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>319</valeur>
+		<sousindicateur_id>85</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</371>
+	<372>
+		<id>4509</id>
+		<creationdate>2013-12-18 16:17:33</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:33</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>86</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</372>
+	<373>
+		<id>4510</id>
+		<creationdate>2013-12-18 16:17:33</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:33</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>87</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</373>
+	<374>
+		<id>4511</id>
+		<creationdate>2013-12-18 16:17:34</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:34</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>88</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</374>
+	<375>
+		<id>4512</id>
+		<creationdate>2013-12-18 16:17:34</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:34</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>89</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</375>
+	<376>
+		<id>4513</id>
+		<creationdate>2013-12-18 16:17:35</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:35</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>6</valeur>
+		<sousindicateur_id>90</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</376>
+	<377>
+		<id>4514</id>
+		<creationdate>2013-12-18 16:17:35</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:35</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>585</valeur>
+		<sousindicateur_id>91</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</377>
+	<378>
+		<id>4515</id>
+		<creationdate>2013-12-18 16:17:36</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:36</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>319</valeur>
+		<sousindicateur_id>92</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</378>
+	<379>
+		<id>4516</id>
+		<creationdate>2013-12-18 16:17:36</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:36</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>2347</valeur>
+		<sousindicateur_id>93</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</379>
+	<380>
+		<id>4517</id>
+		<creationdate>2013-12-18 16:17:36</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:36</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>94</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</380>
+	<381>
+		<id>4518</id>
+		<creationdate>2013-12-18 16:17:37</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:37</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>163</valeur>
+		<sousindicateur_id>95</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</381>
+	<382>
+		<id>4519</id>
+		<creationdate>2013-12-18 16:17:37</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:37</lastmodificationdate>
+		<periode>2011-2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>1649</valeur>
+		<sousindicateur_id>96</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</382>
+	<383>
+		<id>4520</id>
+		<creationdate>2013-12-18 16:17:38</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:38</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>15645</valeur>
+		<sousindicateur_id>97</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</383>
+	<384>
+		<id>4521</id>
+		<creationdate>2013-12-18 16:17:38</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:38</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>98</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</384>
+	<385>
+		<id>4522</id>
+		<creationdate>2013-12-18 16:17:39</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:39</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>30</valeur>
+		<sousindicateur_id>99</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</385>
+	<386>
+		<id>4523</id>
+		<creationdate>2013-12-18 16:17:39</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:39</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>959</valeur>
+		<sousindicateur_id>84</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</386>
+	<387>
+		<id>4524</id>
+		<creationdate>2013-12-18 16:17:40</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:40</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>3784</valeur>
+		<sousindicateur_id>100</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</387>
+	<388>
+		<id>4525</id>
+		<creationdate>2013-12-18 16:17:40</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:40</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>4</valeur>
+		<sousindicateur_id>110</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</388>
+	<389>
+		<id>4526</id>
+		<creationdate>2013-12-18 16:17:41</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:41</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>76</valeur>
+		<sousindicateur_id>111</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</389>
+	<390>
+		<id>4527</id>
+		<creationdate>2013-12-18 16:17:41</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:41</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>80</valeur>
+		<sousindicateur_id>112</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</390>
+	<391>
+		<id>4528</id>
+		<creationdate>2013-12-18 16:17:41</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:41</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>114</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</391>
+	<392>
+		<id>4529</id>
+		<creationdate>2013-12-18 16:17:42</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:42</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>5</valeur>
+		<sousindicateur_id>115</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</392>
+	<393>
+		<id>4530</id>
+		<creationdate>2013-12-18 16:17:42</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:42</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>5</valeur>
+		<sousindicateur_id>116</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</393>
+	<394>
+		<id>4531</id>
+		<creationdate>2013-12-18 16:17:42</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:42</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>1330</valeur>
+		<sousindicateur_id>117</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</394>
+	<395>
+		<id>4532</id>
+		<creationdate>2013-12-18 16:17:42</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:42</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>190</valeur>
+		<sousindicateur_id>117</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</395>
+	<396>
+		<id>4533</id>
+		<creationdate>2013-12-18 16:17:42</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:42</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>111</valeur>
+		<sousindicateur_id>117</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</396>
+	<397>
+		<id>4534</id>
+		<creationdate>2013-12-18 16:17:42</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:42</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>404</valeur>
+		<sousindicateur_id>117</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</397>
+	<398>
+		<id>4535</id>
+		<creationdate>2013-12-18 16:17:42</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:42</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>352</valeur>
+		<sousindicateur_id>117</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</398>
+	<399>
+		<id>4536</id>
+		<creationdate>2013-12-18 16:17:42</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:42</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>125</valeur>
+		<sousindicateur_id>117</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</399>
+	<400>
+		<id>4537</id>
+		<creationdate>2013-12-18 16:17:42</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:42</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>148</valeur>
+		<sousindicateur_id>117</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</400>
+	<401>
+		<id>4538</id>
+		<creationdate>2013-12-18 16:17:42</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:42</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>95</valeur>
+		<sousindicateur_id>119</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</401>
+	<402>
+		<id>4539</id>
+		<creationdate>2013-12-18 16:17:42</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:42</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>5</valeur>
+		<sousindicateur_id>120</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</402>
+	<403>
+		<id>4540</id>
+		<creationdate>2013-12-18 16:17:43</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:43</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>154</valeur>
+		<sousindicateur_id>121</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</403>
+	<404>
+		<id>4541</id>
+		<creationdate>2013-12-18 16:17:43</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:43</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>4</valeur>
+		<sousindicateur_id>122</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</404>
+	<405>
+		<id>4542</id>
+		<creationdate>2013-12-18 16:17:43</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:43</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>4</valeur>
+		<sousindicateur_id>123</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</405>
+	<406>
+		<id>4543</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>29</valeur>
+		<sousindicateur_id>124</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</406>
+	<407>
+		<id>4544</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>8</valeur>
+		<sousindicateur_id>124</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</407>
+	<408>
+		<id>4545</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>124</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</408>
+	<409>
+		<id>4546</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>6</valeur>
+		<sousindicateur_id>124</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</409>
+	<410>
+		<id>4547</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>124</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</410>
+	<411>
+		<id>4548</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>4</valeur>
+		<sousindicateur_id>124</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</411>
+	<412>
+		<id>4549</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>6</valeur>
+		<sousindicateur_id>124</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</412>
+	<413>
+		<id>4550</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>24</valeur>
+		<sousindicateur_id>125</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</413>
+	<414>
+		<id>4551</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>125</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</414>
+	<415>
+		<id>4552</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>125</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</415>
+	<416>
+		<id>4553</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>125</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</416>
+	<417>
+		<id>4554</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>125</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</417>
+	<418>
+		<id>4555</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>125</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</418>
+	<419>
+		<id>4556</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>125</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</419>
+	<420>
+		<id>4557</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>24</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>24</valeur>
+		<sousindicateur_id>125</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</420>
+	<421>
+		<id>4558</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>24</valeur>
+		<sousindicateur_id>126</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</421>
+	<422>
+		<id>4559</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>7</valeur>
+		<sousindicateur_id>126</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</422>
+	<423>
+		<id>4560</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>126</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</423>
+	<424>
+		<id>4561</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>5</valeur>
+		<sousindicateur_id>126</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</424>
+	<425>
+		<id>4562</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>126</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</425>
+	<426>
+		<id>4563</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>126</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</426>
+	<427>
+		<id>4564</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>4</valeur>
+		<sousindicateur_id>126</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</427>
+	<428>
+		<id>4565</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>17</valeur>
+		<sousindicateur_id>127</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</428>
+	<429>
+		<id>4566</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>127</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</429>
+	<430>
+		<id>4567</id>
+		<creationdate>2013-12-18 16:17:44</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:44</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>127</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</430>
+	<431>
+		<id>4568</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>5</valeur>
+		<sousindicateur_id>127</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</431>
+	<432>
+		<id>4569</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>127</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</432>
+	<433>
+		<id>4570</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>4</valeur>
+		<sousindicateur_id>127</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</433>
+	<434>
+		<id>4571</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>2</valeur>
+		<sousindicateur_id>127</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</434>
+	<435>
+		<id>4572</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>13</valeur>
+		<sousindicateur_id>128</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</435>
+	<436>
+		<id>4573</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>6</valeur>
+		<sousindicateur_id>128</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</436>
+	<437>
+		<id>4574</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>128</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</437>
+	<438>
+		<id>4575</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>128</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</438>
+	<439>
+		<id>4576</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>128</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</439>
+	<440>
+		<id>4577</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>128</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</440>
+	<441>
+		<id>4578</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>5</valeur>
+		<sousindicateur_id>128</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</441>
+	<442>
+		<id>4579</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>30</valeur>
+		<sousindicateur_id>129</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</442>
+	<443>
+		<id>4580</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>7</valeur>
+		<sousindicateur_id>129</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</443>
+	<444>
+		<id>4581</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>129</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</444>
+	<445>
+		<id>4582</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>6</valeur>
+		<sousindicateur_id>129</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</445>
+	<446>
+		<id>4583</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>129</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</446>
+	<447>
+		<id>4584</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>4</valeur>
+		<sousindicateur_id>129</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</447>
+	<448>
+		<id>4585</id>
+		<creationdate>2013-12-18 16:17:45</creationdate>
+		<lastmodificationdate>2013-12-18 15:17:45</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Circonscription scolaire d'Adja-Ouèrè</source>
+		<valeur>7</valeur>
+		<sousindicateur_id>129</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</448>
+	<449>
+		<id>4587</id>
+		<creationdate>2013-12-18 16:28:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:06</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>5</valeur>
+		<sousindicateur_id>55</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</449>
+	<450>
+		<id>4588</id>
+		<creationdate>2013-12-18 16:28:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:06</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>55</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</450>
+	<451>
+		<id>4589</id>
+		<creationdate>2013-12-18 16:28:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:06</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>55</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</451>
+	<452>
+		<id>4590</id>
+		<creationdate>2013-12-18 16:28:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:06</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>55</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</452>
+	<453>
+		<id>4591</id>
+		<creationdate>2013-12-18 16:28:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:06</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>55</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</453>
+	<454>
+		<id>4592</id>
+		<creationdate>2013-12-18 16:28:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:06</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>55</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</454>
+	<455>
+		<id>4593</id>
+		<creationdate>2013-12-18 16:28:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:06</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>1</valeur>
+		<sousindicateur_id>55</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</455>
+	<456>
+		<id>4594</id>
+		<creationdate>2013-12-18 16:28:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:06</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>80.12</valeur>
+		<sousindicateur_id>56</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</456>
+	<457>
+		<id>4595</id>
+		<creationdate>2013-12-18 16:28:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:06</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>131.05</valeur>
+		<sousindicateur_id>56</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</457>
+	<458>
+		<id>4596</id>
+		<creationdate>2013-12-18 16:28:06</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:06</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>67.3</valeur>
+		<sousindicateur_id>56</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</458>
+	<459>
+		<id>4597</id>
+		<creationdate>2013-12-18 16:28:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:07</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>54</valeur>
+		<sousindicateur_id>56</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</459>
+	<460>
+		<id>4598</id>
+		<creationdate>2013-12-18 16:28:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:07</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>57</valeur>
+		<sousindicateur_id>56</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</460>
+	<461>
+		<id>4599</id>
+		<creationdate>2013-12-18 16:28:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:07</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>54.1</valeur>
+		<sousindicateur_id>57</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</461>
+	<462>
+		<id>4600</id>
+		<creationdate>2013-12-18 16:28:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:07</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>63.86</valeur>
+		<sousindicateur_id>58</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</462>
+	<463>
+		<id>4601</id>
+		<creationdate>2013-12-18 16:28:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:07</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>75.91</valeur>
+		<sousindicateur_id>58</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</463>
+	<464>
+		<id>4602</id>
+		<creationdate>2013-12-18 16:28:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:07</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>43.2</valeur>
+		<sousindicateur_id>58</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</464>
+	<465>
+		<id>4603</id>
+		<creationdate>2013-12-18 16:28:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:07</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>57.07</valeur>
+		<sousindicateur_id>58</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</465>
+	<466>
+		<id>4604</id>
+		<creationdate>2013-12-18 16:28:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:07</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>36.7</valeur>
+		<sousindicateur_id>59</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</466>
+	<467>
+		<id>4605</id>
+		<creationdate>2013-12-18 16:28:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:07</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>29.77</valeur>
+		<sousindicateur_id>59</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</467>
+	<468>
+		<id>4606</id>
+		<creationdate>2013-12-18 16:28:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:07</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>20.1</valeur>
+		<sousindicateur_id>59</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</468>
+	<469>
+		<id>4607</id>
+		<creationdate>2013-12-18 16:28:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:07</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>44.1</valeur>
+		<sousindicateur_id>59</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</469>
+	<470>
+		<id>4608</id>
+		<creationdate>2013-12-18 16:28:07</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:07</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>59.12</valeur>
+		<sousindicateur_id>59</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</470>
+	<471>
+		<id>4609</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal d'Adja-Ouèrè</source>
+		<valeur>21.4</valeur>
+		<sousindicateur_id>59</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</471>
+	<472>
+		<id>4610</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2011</periode>
+		<source>Centre de santé communal de Adja-Ouèrè</source>
+		<valeur>45.22</valeur>
+		<sousindicateur_id>60</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</472>
+	<473>
+		<id>4611</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2011</periode>
+		<source>centre de santé de la commune d'Adja-Ouèrè</source>
+		<valeur>48.36</valeur>
+		<sousindicateur_id>60</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</473>
+	<474>
+		<id>4612</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2011</periode>
+		<source>centre de santé de la commune d'Adja-Ouèrè</source>
+		<valeur>27.3</valeur>
+		<sousindicateur_id>60</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</474>
+	<475>
+		<id>4613</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2011</periode>
+		<source>centre de santé de la commune d'Adja-Ouèrè</source>
+		<valeur>60.9</valeur>
+		<sousindicateur_id>60</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</475>
+	<476>
+		<id>4614</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2011</periode>
+		<source>centre de santé de la commune d'Adja-Ouèrè</source>
+		<valeur>10319</valeur>
+		<sousindicateur_id>60</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</476>
+	<477>
+		<id>4615</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2011</periode>
+		<source>centre de santé de la commune d'Adja-Ouèrè</source>
+		<valeur>31</valeur>
+		<sousindicateur_id>60</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</477>
+	<478>
+		<id>4616</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2</periode>
+		<source>centre de santé de la commune d'Adja-Ouèrè</source>
+		<valeur>28.94</valeur>
+		<sousindicateur_id>61</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</478>
+	<479>
+		<id>4617</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2011</periode>
+		<source>centre de santé de la commune d'Adja-Ouèrè</source>
+		<valeur>54.15</valeur>
+		<sousindicateur_id>61</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</479>
+	<480>
+		<id>4618</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2011</periode>
+		<source>centre de santé de la commune d'Adja-Ouèrè</source>
+		<valeur>64.5</valeur>
+		<sousindicateur_id>61</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</480>
+	<481>
+		<id>4619</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2011</periode>
+		<source>centre de santé de la commune d'Adja-Ouèrè</source>
+		<valeur>72.2</valeur>
+		<sousindicateur_id>61</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</481>
+	<482>
+		<id>4620</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2011</periode>
+		<source>centre de santé de la commune d'Adja-Ouèrè</source>
+		<valeur>95.14</valeur>
+		<sousindicateur_id>61</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</482>
+	<483>
+		<id>4621</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2011</periode>
+		<source>centre de santé de la commune d'Adja-Ouèrè</source>
+		<valeur>7.52</valeur>
+		<sousindicateur_id>62</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</483>
+	<484>
+		<id>4622</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2011</periode>
+		<source>centre de santé de la commune d'Adja-Ouèrè</source>
+		<valeur>4.88</valeur>
+		<sousindicateur_id>62</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</484>
+	<485>
+		<id>4623</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2011</periode>
+		<source>centre de santé de la commune d'Adja-Ouèrè</source>
+		<valeur>9.1</valeur>
+		<sousindicateur_id>62</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</485>
+	<486>
+		<id>4624</id>
+		<creationdate>2013-12-18 16:28:08</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:08</lastmodificationdate>
+		<periode>2011</periode>
+		<source>centre de santé de la commune d'Adja-Ouèrè</source>
+		<valeur>12.1</valeur>
+		<sousindicateur_id>62</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</486>
+	<487>
+		<id>4625</id>
+		<creationdate>2013-12-18 16:28:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:19</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>82</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</487>
+	<488>
+		<id>4626</id>
+		<creationdate>2013-12-18 16:28:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:19</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>82</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</488>
+	<489>
+		<id>4627</id>
+		<creationdate>2013-12-18 16:28:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:19</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>82</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</489>
+	<490>
+		<id>4628</id>
+		<creationdate>2013-12-18 16:28:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:19</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>82</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</490>
+	<491>
+		<id>4629</id>
+		<creationdate>2013-12-18 16:28:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:19</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>82</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</491>
+	<492>
+		<id>4630</id>
+		<creationdate>2013-12-18 16:28:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:19</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>82</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</492>
+	<493>
+		<id>4631</id>
+		<creationdate>2013-12-18 16:28:19</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:19</lastmodificationdate>
+		<periode>2011/2012</periode>
+		<source>Centre communal de production agricole d'Adja-Ouèrè</source>
+		<valeur>0</valeur>
+		<sousindicateur_id>82</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</493>
+	<494>
+		<id>4632</id>
+		<creationdate>2013-12-18 16:28:28</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:28</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>147</valeur>
+		<sousindicateur_id>101</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</494>
+	<495>
+		<id>4633</id>
+		<creationdate>2013-12-18 16:28:28</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:28</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>9</valeur>
+		<sousindicateur_id>101</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</495>
+	<496>
+		<id>4634</id>
+		<creationdate>2013-12-18 16:28:28</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:28</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>36</valeur>
+		<sousindicateur_id>101</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</496>
+	<497>
+		<id>4635</id>
+		<creationdate>2013-12-18 16:28:28</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:28</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>14</valeur>
+		<sousindicateur_id>101</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</497>
+	<498>
+		<id>4636</id>
+		<creationdate>2013-12-18 16:28:28</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:28</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>50</valeur>
+		<sousindicateur_id>101</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</498>
+	<499>
+		<id>4637</id>
+		<creationdate>2013-12-18 16:28:28</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:28</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>14</valeur>
+		<sousindicateur_id>101</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</499>
+	<500>
+		<id>4638</id>
+		<creationdate>2013-12-18 16:28:28</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:28</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>8</valeur>
+		<sousindicateur_id>101</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</500>
+	<501>
+		<id>4639</id>
+		<creationdate>2013-12-18 16:28:28</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:28</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>28</valeur>
+		<sousindicateur_id>102</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</501>
+	<502>
+		<id>4640</id>
+		<creationdate>2013-12-18 16:28:28</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:28</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>6</valeur>
+		<sousindicateur_id>102</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</502>
+	<503>
+		<id>4641</id>
+		<creationdate>2013-12-18 16:28:28</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:28</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>3</valeur>
+		<sousindicateur_id>102</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</503>
+	<504>
+		<id>4642</id>
+		<creationdate>2013-12-18 16:28:28</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:28</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>7</valeur>
+		<sousindicateur_id>102</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</504>
+	<505>
+		<id>4643</id>
+		<creationdate>2013-12-18 16:28:29</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:29</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>6</valeur>
+		<sousindicateur_id>102</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</505>
+	<506>
+		<id>4644</id>
+		<creationdate>2013-12-18 16:28:29</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:29</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>7</valeur>
+		<sousindicateur_id>102</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</506>
+	<507>
+		<id>4645</id>
+		<creationdate>2013-12-18 16:28:29</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:29</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>249</valeur>
+		<sousindicateur_id>103</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</507>
+	<508>
+		<id>4646</id>
+		<creationdate>2013-12-18 16:28:29</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:29</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>40</valeur>
+		<sousindicateur_id>103</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</508>
+	<509>
+		<id>4647</id>
+		<creationdate>2013-12-18 16:28:29</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:29</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>17</valeur>
+		<sousindicateur_id>103</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</509>
+	<510>
+		<id>4648</id>
+		<creationdate>2013-12-18 16:28:29</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:29</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>25</valeur>
+		<sousindicateur_id>103</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</510>
+	<511>
+		<id>4649</id>
+		<creationdate>2013-12-18 16:28:29</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:29</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>21</valeur>
+		<sousindicateur_id>103</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</511>
+	<512>
+		<id>4650</id>
+		<creationdate>2013-12-18 16:28:29</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:29</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>63</valeur>
+		<sousindicateur_id>103</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</512>
+	<513>
+		<id>4651</id>
+		<creationdate>2013-12-18 16:28:29</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:29</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Centre de promotion sociale</source>
+		<valeur>83</valeur>
+		<sousindicateur_id>103</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</513>
+	<514>
+		<id>4652</id>
+		<creationdate>2013-12-18 16:28:30</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:30</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>449</valeur>
+		<sousindicateur_id>113</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</514>
+	<515>
+		<id>4653</id>
+		<creationdate>2013-12-18 16:28:30</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:30</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>58</valeur>
+		<sousindicateur_id>113</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</515>
+	<516>
+		<id>4654</id>
+		<creationdate>2013-12-18 16:28:30</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:30</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>51</valeur>
+		<sousindicateur_id>113</sousindicateur_id>
+		<zone_id>3058</zone_id>
+		<unite>null</unite>
+	</516>
+	<517>
+		<id>4655</id>
+		<creationdate>2013-12-18 16:28:30</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:30</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>144</valeur>
+		<sousindicateur_id>113</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</517>
+	<518>
+		<id>4656</id>
+		<creationdate>2013-12-18 16:28:30</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:30</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>114</valeur>
+		<sousindicateur_id>113</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</518>
+	<519>
+		<id>4657</id>
+		<creationdate>2013-12-18 16:28:30</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:30</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>45</valeur>
+		<sousindicateur_id>113</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</519>
+	<520>
+		<id>4658</id>
+		<creationdate>2013-12-18 16:28:30</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:30</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>37</valeur>
+		<sousindicateur_id>113</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</520>
+	<521>
+		<id>4659</id>
+		<creationdate>2013-12-18 16:28:32</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:32</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>53.98</valeur>
+		<sousindicateur_id>118</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</521>
+	<522>
+		<id>4660</id>
+		<creationdate>2013-12-18 16:28:32</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:32</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>60.8</valeur>
+		<sousindicateur_id>118</sousindicateur_id>
+		<zone_id>3496</zone_id>
+		<unite>null</unite>
+	</522>
+	<523>
+		<id>4661</id>
+		<creationdate>2013-12-18 16:28:32</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:32</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>70.27</valeur>
+		<sousindicateur_id>118</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</523>
+	<524>
+		<id>4662</id>
+		<creationdate>2013-12-18 16:28:32</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:32</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>84.68</valeur>
+		<sousindicateur_id>119</sousindicateur_id>
+		<zone_id>3056</zone_id>
+		<unite>null</unite>
+	</524>
+	<525>
+		<id>4663</id>
+		<creationdate>2013-12-18 16:28:32</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:32</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>79.55</valeur>
+		<sousindicateur_id>119</sousindicateur_id>
+		<zone_id>3057</zone_id>
+		<unite>null</unite>
+	</525>
+	<526>
+		<id>4664</id>
+		<creationdate>2013-12-18 16:28:32</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:32</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>88.08</valeur>
+		<sousindicateur_id>119</sousindicateur_id>
+		<zone_id>3059</zone_id>
+		<unite>null</unite>
+	</526>
+	<527>
+		<id>4665</id>
+		<creationdate>2013-12-18 16:28:32</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:32</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>79.83</valeur>
+		<sousindicateur_id>119</sousindicateur_id>
+		<zone_id>3060</zone_id>
+		<unite>null</unite>
+	</527>
+	<528>
+		<id>4666</id>
+		<creationdate>2013-12-18 16:28:32</creationdate>
+		<lastmodificationdate>2013-12-18 15:28:32</lastmodificationdate>
+		<periode>2012</periode>
+		<source>Service alphabétisation de la commune</source>
+		<valeur>93.69</valeur>
+		<sousindicateur_id>119</sousindicateur_id>
+		<zone_id>3061</zone_id>
+		<unite>null</unite>
+	</528>
+</root>
